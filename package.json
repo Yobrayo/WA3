@@ -1,7 +1,7 @@
 {
-  "name": "KHAN-MD",
+  "name": "ɎØ_฿Ɽ₳ɎØ",
   "version": "5.0.0",
-  "description": "A WhatsApp Bot Created By JawadTechX",
+  "description": " By ɎØ_฿Ɽ₳ɎØ",
   "main": "index.js",
   "engines": {
     "node": ">=20.x",
@@ -40,9 +40,9 @@
     "whatsapp-bot-khan"
   ],
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name KHAN-MD",
-    "stop": "pm2 stop KHAN-MD",
-    "restart": "pm2 restart KHAN-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name ɎØ_฿Ɽ₳ɎØ_BOT",
+    "stop": "pm2 stop ɎØ_฿Ɽ₳ɎØ_BOT",
+    "restart": "pm2 restart ɎØ_฿Ɽ₳ɎØ_BOT"
   },
   "dependencies": {    
     "@whiskeysockets/baileys": "6.7.21",
