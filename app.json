@@ -1,7 +1,7 @@
 {
-  "name": "KHAN-MD",
-  "description": "Javascript WhatsApp bot made by Jᴀᴡᴀᴅ TᴇᴄʜX",
-  "logo": "https://files.catbox.moe/neni8p.jpg",
+  "name": "ɎØ_฿Ɽ₳ɎØ",
+  "description": "by ɎØ_฿Ɽ₳ɎØ",
+  "logo": "https://drive.google.com/file/d/16qk7J9gtLdBStTnNDOof6xCtPIQC4wiA/view?usp=drivesdk",
   "keywords": ["KHAN-MD"],
   "success_url": "/",
 
@@ -10,13 +10,13 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "IK~rElUzCiQ#oSMm0qq7IbaFjOWQYWYgU-w6yTbAClme8Q1Yrm-cCpc"
     },  
     
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "KHAN-MD"
+      "value": "ɎØ_฿Ɽ₳ɎØ"
     }, 
       
     "PREFIX": {
@@ -41,7 +41,7 @@
     "ALWAYS_ONLINE": {
       "description": "Make it true if want always online.",
       "required": false,
-      "value": "false"  
+      "value": "true"  
     },    
    
     "AUTO_REPLY": {
@@ -85,20 +85,20 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "Jᴀᴡᴀᴅ TᴇᴄʜX"
+      "value": "ɎØ_฿Ɽ₳ɎØ"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "92310344XXXX"
+      "value": "254115548821"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "KHAN-MD"
+      "value": "ɎØ_฿Ɽ₳ɎØ_BOT"
 
       }, 
 
@@ -137,7 +137,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Jᴀᴡᴀᴅ TᴇᴄʜX*"
+      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɎØ_฿Ɽ₳ɎØ*"
     },
 
       "DELETE_LINKS": {
